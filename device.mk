@@ -266,6 +266,7 @@ PRODUCT_PACKAGES += \
     init.garnet.rc \
     init.qcom.post_boot.sh \
     init.qcom.rc \
+    init.qcom.early_boot.sh \
     init.recovery.qcom.rc \
     init.sim.restart.sh \
     init.target.rc \
