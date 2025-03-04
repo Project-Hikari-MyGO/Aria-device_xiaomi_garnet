@@ -264,6 +264,7 @@ PRODUCT_PACKAGES += \
     charger_fw_fstab.qti \
     fstab.qcom \
     init.garnet.rc \
+    init.qcom.post_boot.sh \
     init.qcom.rc \
     init.recovery.qcom.rc \
     init.sim.restart.sh \
